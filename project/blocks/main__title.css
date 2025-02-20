@@ -1,0 +1,19 @@
+.main__title-text{
+    margin: 0;
+    padding: 0 16px;
+    font-family: 'TT Lakes Bold';
+    font-size: 28px;
+}
+.main__title-dec{
+    position:absolute;
+    width: 8px;
+    height: inherit;
+    margin-left: -4px;
+    background-color: #41F6D7;
+    border-radius: 4px;
+
+}
+.main__title{
+    display: flex;
+    height: 40px;
+}

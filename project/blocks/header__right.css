@@ -1,0 +1,16 @@
+@media(min-width: 320px){
+    .header__right_screen_768{
+        min-width: 118px;
+    }
+  
+}
+@media(min-width: 768px){
+    .header__right_screen_768{
+        min-width: 300px;
+    }
+}
+.header__right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

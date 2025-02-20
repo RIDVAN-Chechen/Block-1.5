@@ -1,0 +1,24 @@
+@import "header__dec-line.css";
+@import "header__left.css";
+@import "header__right.css";
+@import "header__item.css";
+
+@import "header__wrapper1120.css";
+@import "header__description1120.css";
+.header{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    height: 88px;
+    border-bottom: 1px #D9FFF5 solid;
+    
+}
+@media(min-width: 1120px){
+    .header{
+        margin-top: 20px;
+        margin-bottom: -94px;
+        padding-right: 32px;
+        border: none;
+    }
+    
+}

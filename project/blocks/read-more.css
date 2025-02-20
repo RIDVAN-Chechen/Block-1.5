@@ -1,0 +1,21 @@
+.read-more__wrapper{
+    padding-bottom: 16px;
+}
+
+.read-more{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    width: 132px;
+    color: #000;
+    font-size: 16px;
+    text-decoration: none;
+}
+.read-more:hover{
+    background-color: rgba(0, 47, 255,0.1);
+    transition: all 0.2s;
+    border-radius: 4px;
+}
+.read-more_opened .read-more__icon{
+    transform: rotate(180deg);
+}

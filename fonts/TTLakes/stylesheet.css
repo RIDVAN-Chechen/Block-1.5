@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'TT Lakes Bold';
+    src: url('TTLakes-Bold.eot');
+    src: url('TTLakes-Bold.eot?#iefix') format('embedded-opentype'),
+    url('TTLakes-Bold.woff') format('woff'),
+    url('TTLakes-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+@font-face {
+    font-family: 'TT Lakes Light';
+    src: url('TTLakes-Light.eot');
+    src: url('TTLakes-Light.eot?#iefix') format('embedded-opentype'),
+    url('TTLakes-Light.woff') format('woff'),
+    url('TTLakes-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }

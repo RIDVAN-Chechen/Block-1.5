@@ -1,0 +1,12 @@
+.contacts{
+    font-style: normal;
+    line-height: 40px;
+}
+.contacts__mail{
+    font-weight: bold;
+    font-size: 16px;
+}
+.contacts__number{
+    font-family: 'TT Lakes Bold';
+    font-size: 24px;
+}

@@ -1,0 +1,20 @@
+@import "../project/blocks/container.css";
+
+@import "../fonts/TTLakes/stylesheet.css";
+
+@import "../project/blocks/header.css";
+@import "../project/blocks/main.css";
+@import "../project/blocks/read-more.css";
+@import "../project/blocks/logo.css";
+@import "../project/blocks/aside.css";
+@import "../project/blocks/link.css";
+@import "../project/blocks/contacts.css";
+@import "../project/blocks/button.css";
+@import "../project/blocks/change-language.css";
+@import "../project/blocks/brands.css";
+
+
+
+body{margin: 0px;
+
+    font-family: 'TT Lakes Light';}

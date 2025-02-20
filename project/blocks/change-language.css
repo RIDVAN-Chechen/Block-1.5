@@ -1,0 +1,12 @@
+.change-language{
+    display: flex;
+    justify-content: space-between;
+    width: 85px;
+    font-size: 24px;
+    list-style-type: none;
+    padding-left: 0px;
+}
+.change-language__button:hover{
+    color: #7E7E82;
+
+}

@@ -1,0 +1,8 @@
+@import "main__title.css";
+@import "main__menu.css";
+@import "main__content.css";
+
+.main{
+    padding: 24px 0 35px 0;
+}
+
